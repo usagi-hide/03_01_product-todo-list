@@ -1,3 +1,19 @@
+## プロダクトのタイトル
+- Product Todo List
+- 
+
+# プロダクトの紹介
+- React.js
+- todolist
+- 追加、削除、完了の選択ができる
+
+# こだわった点
+- 色合いをinstaチックにしてみた
+
+# 苦戦した点
+- todos渡し過ぎて頭おかしくなりました
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
