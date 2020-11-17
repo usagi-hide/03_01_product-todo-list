@@ -1,9 +1,9 @@
 ## プロダクトのタイトル
 - Product Todo List
-- 
+- https://todo-list-c8476.web.app
 
 # プロダクトの紹介
-- React.js
+- React.js,firebase
 - todolist
 - 追加、削除、完了の選択ができる
 
@@ -12,6 +12,7 @@
 
 # 苦戦した点
 - todos渡し過ぎて頭おかしくなりました
+- github pages にデプロイしたかったのに何度やっても反映されずfirebaseになりました
 
 
 # Getting Started with Create React App
